@@ -52,7 +52,7 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[🚗 Motor insurance fraud detection](https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection)**
 
@@ -63,18 +63,33 @@ Final-year research project. XGBoost, an LSTM and a graph neural network, combin
 `Python` `XGBoost` `PyTorch` `LaTeX`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[📊 ISP customer analytics app](https://github.com/kaliumg432-hub/isp-customer-analytics)**
 
 React app that turns M-Pesa exports into customer segments, churn status and next actions, with an AI assistant that runs the exact numbers locally.
 
+▶ **[Try the live demo](https://kaliumg432-hub.github.io/isp-customer-analytics/)**
+
 `React` `JavaScript` `Claude API`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[🧮 Excel financial systems](https://github.com/kaliumg432-hub/excel-financial-systems)**
+**[🧾 Expense control app](https://github.com/kaliumg432-hub/expense-control-room)**
+
+Classifies every business wallet payment from messy remarks, matches bills and payroll to their payments, and flags overdue bills, price rises and odd spending.
+
+▶ **[Try the live demo](https://kaliumg432-hub.github.io/expense-control-room/)**
+
+`React` `JavaScript` `Claude API`
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 Excel financial systems**
 
 Profit First revenue allocation, a 200-site hotspot payment register with priority alerts, and an equipment inventory tracker.
 
