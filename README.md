@@ -58,6 +58,8 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 
 Final-year research project. XGBoost, an LSTM and a graph neural network, combined by stacked generalisation, to flag fraudulent motor claims in Kenya.
 
+**F1 85.3%** · +9.7 pp over the best single model
+
 `Python` `XGBoost` `PyTorch` `LaTeX`
 
 </td>
