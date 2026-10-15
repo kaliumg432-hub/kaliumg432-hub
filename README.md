@@ -89,11 +89,13 @@ Classifies every business wallet payment from messy remarks, matches bills and p
 </td>
 <td width="50%" valign="top">
 
-**🧮 Excel financial systems**
+**[🧮 Profit First financial system](https://github.com/kaliumg432-hub/Financial-Dashboard)**
 
-Profit First revenue allocation, a 200-site hotspot payment register with priority alerts, and an equipment inventory tracker.
+10-sheet Excel system that splits every shilling of revenue into profit, owner pay, tax and operating budgets, with a self-writing dashboard, debt tracker, bill calendar and KRA tax calendar.
 
-`Excel` `INDEX/MATCH` `Apps Script`
+📥 **[Download the workbook](https://github.com/kaliumg432-hub/Financial-Dashboard/raw/main/Profit_First_Financial_System_DEMO.xlsx)**
+
+`Excel` `INDEX/MATCH` `SUMIFS`
 
 </td>
 </tr>
