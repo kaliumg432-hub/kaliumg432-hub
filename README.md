@@ -29,7 +29,7 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 
 **Actuarial & risk**
 - Insurance fraud modelling
-- Stacked ensembles: XGBoost, LSTM, GNN
+- Model validation and leakage audits
 - Hypothesis testing, regression, EDA
 - Model diagnostics
 
@@ -56,11 +56,11 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 
 **[🚗 Motor insurance fraud detection](https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection)**
 
-Final-year research project. XGBoost, an LSTM and a graph neural network, combined by stacked generalisation, to flag fraudulent motor claims in Kenya.
+Final-year project: an XGBoost + LSTM + GNN stacked ensemble. I audited it after submission and found that its reported F1 of 85.3% came from label leakage, SMOTE before the split and a circular validation label.
 
-**F1 85.3%** · +9.7 pp over the best single model
+**Bugs reproduced** · leak-free rebuild with a positive control
 
-`Python` `XGBoost` `PyTorch` `LaTeX`
+`Python` `scikit-learn` `XGBoost` `R`
 
 </td>
 <td width="50%" valign="top">
