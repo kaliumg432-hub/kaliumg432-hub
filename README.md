@@ -120,4 +120,4 @@ Classifies every business wallet payment from messy remarks, matches bills and p
 
 ---
 
-<p align="center"><sub>Nairobi, Kenya · Open to actuarial, insurance analytics and data analyst roles from early 2027</sub></p>
+<p align="center"><sub>Nairobi, Kenya · Open to actuarial, insurance analytics and data analyst roles now</sub></p>
