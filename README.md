@@ -61,7 +61,7 @@ Final-year project: an XGBoost + LSTM + GNN stacked ensemble. I audited it after
 
 🔍 **[Read the audit](https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection#summary)**: three bugs reproduced, then a leak-free rebuild checked with a positive control
 
-`Python` `scikit-learn` `XGBoost` `R`
+<sub>Built with Python, scikit-learn, XGBoost and R</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -72,7 +72,7 @@ React app that turns M-Pesa exports into customer segments, churn status and nex
 
 ▶ **[Try the live demo](https://kaliumg432-hub.github.io/isp-customer-analytics/)**
 
-`React` `JavaScript` `Claude API`
+<sub>Built with React, JavaScript and the Claude API</sub>
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Classifies every business wallet payment from messy remarks, matches bills and p
 
 ▶ **[Try the live demo](https://kaliumg432-hub.github.io/expense-control-room/)**
 
-`React` `JavaScript` `Claude API`
+<sub>Built with React, JavaScript and the Claude API</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ Classifies every business wallet payment from messy remarks, matches bills and p
 
 📥 **[Download the workbook](https://github.com/kaliumg432-hub/Financial-Dashboard/raw/main/Profit_First_Financial_System_DEMO.xlsx)**
 
-`Excel` `INDEX/MATCH` `SUMIFS`
+<sub>Built in Excel with INDEX/MATCH, SUMIFS and array formulas</sub>
 
 </td>
 </tr>
@@ -106,18 +106,20 @@ Classifies every business wallet payment from messy remarks, matches bills and p
 
 ### 🛠️ Tools
 
+<sub>Each badge opens a project where I used that tool.</sub>
+
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-2F6F5E?style=flat-square">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection#reproduce-the-audit"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection/blob/main/original_xgboost2.Rmd"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"></a>
+  <a href="https://kaliumg432-hub.github.io/#about"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub/Financial-Dashboard"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub/isp-customer-analytics"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/kaliumg432-hub/expense-control-room"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></a>
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection/blob/main/audit_01_signal_check.py"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection/blob/main/audit_05_clean_pipeline.py"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection/blob/main/audit_03_smote_alignment.py"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-2F6F5E?style=flat-square"></a>
+  <a href="https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection/blob/main/main.tex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></a>
+  <a href="https://github.com/kaliumg432-hub?tab=repositories"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 </p>
 
 ---
