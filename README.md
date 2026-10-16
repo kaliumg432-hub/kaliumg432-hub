@@ -6,14 +6,15 @@
 <p>
   <a href="https://kaliumg432-hub.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kaliumg432--hub.github.io-2F6F5E?style=for-the-badge"></a>
   <a href="mailto:gidraffmbugua496@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-10303A?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:gidraffmbugua496@gmail.com?subject=Role%20opportunity"><img alt="Open to roles now" src="https://img.shields.io/badge/Status-Open_to_roles_now-9C7020?style=for-the-badge"></a>
 </p>
 
 ### Hi, I'm Gidraff 👋
 
-Final-year **Actuarial Science** student at JKUAT and **Business Administrator & Executive Assistant** at HappyNet Internet Services, a Kenyan ISP. I model risk and build the data systems that turn raw transactions into decisions people can act on.
+Final-year **Actuarial Science** student at JKUAT and **Business Administrator & Executive Assistant** at HappyNet Internet Services, a Kenyan ISP. I model risk, check whether models really work, and build the data systems that turn raw transactions into decisions people can act on.
 
 - 🎓 BSc Actuarial Science, JKUAT, graduating December 2026
-- 📚 Preparing for actuarial exam CM1 (Actuarial Mathematics)
+- 📚 Preparing for the IFoA CM1 exam (Actuarial Mathematics)
 - 💼 Previously a data analyst on industrial attachment at HappyNet
 - 🏅 IBM and Cisco certified
 
@@ -58,7 +59,7 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 
 Final-year project: an XGBoost + LSTM + GNN stacked ensemble. I audited it after submission and found that its reported F1 of 85.3% came from label leakage, SMOTE before the split and a circular validation label.
 
-**Bugs reproduced** · leak-free rebuild with a positive control
+🔍 **[Read the audit](https://github.com/kaliumg432-hub/Motor-insurance-fraud-detection#summary)**: three bugs reproduced, then a leak-free rebuild checked with a positive control
 
 `Python` `scikit-learn` `XGBoost` `R`
 
@@ -112,12 +113,13 @@ Classifies every business wallet payment from messy remarks, matches bills and p
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-2F6F5E?style=flat-square">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
 ---
 
-<p align="center"><sub>Nairobi, Kenya · Open to actuarial, insurance analytics and data analyst roles now</sub></p>
+<p align="center"><sub>Nairobi, Kenya · Open to actuarial, insurance analytics and data analyst roles now · <a href="mailto:gidraffmbugua496@gmail.com">gidraffmbugua496@gmail.com</a></sub></p>
