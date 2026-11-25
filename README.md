@@ -11,10 +11,11 @@
 
 ### Hi, I'm Gidraff 👋
 
-Final-year **Actuarial Science** student at JKUAT and **Business Administrator & Executive Assistant** at HappyNet Internet Services, a Kenyan ISP. I model risk, check whether models really work, and build the data systems that turn raw transactions into decisions people can act on.
+**Actuarial Science** graduate from JKUAT with **First Class Honours**, and **Business Administrator & Executive Assistant** at HappyNet Internet Services, a Kenyan ISP. I model risk, check whether models really work, and build the data systems that turn raw transactions into decisions people can act on.
 
-- 🎓 BSc Actuarial Science, JKUAT, graduating December 2026
-- 📚 Preparing for the IFoA CM1 exam (Actuarial Mathematics)
+- 🎓 BSc Actuarial Science, First Class Honours, JKUAT (graduating 11 December 2026)
+- 📚 IFoA CS1 passed; sitting CB1 (Business Finance) in April 2027
+- 🏗️ Built the HappyNet Command Centre, the finance and operations system the company runs on
 - 💼 Previously a data analyst on industrial attachment at HappyNet
 - 🏅 IBM and Cisco certified
 
@@ -50,6 +51,9 @@ Final-year **Actuarial Science** student at JKUAT and **Business Administrator &
 ---
 
 ### 🗂️ Featured projects
+
+**🏢 HappyNet Command Centre** · *private company system, in daily use*
+The finance and operations system HappyNet runs on: M-Pesa and Tende imports, payment reconciliation (including split payments), customers, expenses, payroll, hotspot hosts, leads, SMS campaigns, per-person access rights and an AI assistant over the whole database. Built with React, Supabase (PostgreSQL), Netlify Functions and the Claude API. [Read more on my site](https://kaliumg432-hub.github.io/#p-cc).
 
 <table>
 <tr>
